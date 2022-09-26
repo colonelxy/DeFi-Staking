@@ -1,4 +1,6 @@
-pragma solidity >=0.4.21 <0.6.0;
+//SPDX-License-Identifier: CC-BY-NC-4.0
+
+pragma solidity >=0.4.21 <=0.8.17;
 
 contract Migrations {
   address public owner;
